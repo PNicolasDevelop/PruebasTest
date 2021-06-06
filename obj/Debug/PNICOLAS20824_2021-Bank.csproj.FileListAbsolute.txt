@@ -1,0 +1,6 @@
+C:\Users\pedro\Documents\FP\Entornos de Desarrollo\3a Evaluacion\PNICOLAS20824_2021-Bank\PNICOLAS20824_2021-Bank\bin\Debug\PNICOLAS20824_2021-Bank.dll
+C:\Users\pedro\Documents\FP\Entornos de Desarrollo\3a Evaluacion\PNICOLAS20824_2021-Bank\PNICOLAS20824_2021-Bank\bin\Debug\PNICOLAS20824_2021-Bank.pdb
+C:\Users\pedro\Documents\FP\Entornos de Desarrollo\3a Evaluacion\PNICOLAS20824_2021-Bank\PNICOLAS20824_2021-Bank\obj\Debug\PNICOLAS20824_2021-Bank.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\FP\Entornos de Desarrollo\3a Evaluacion\PNICOLAS20824_2021-Bank\PNICOLAS20824_2021-Bank\obj\Debug\PNICOLAS20824_2021-Bank.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\FP\Entornos de Desarrollo\3a Evaluacion\PNICOLAS20824_2021-Bank\PNICOLAS20824_2021-Bank\obj\Debug\PNICOLAS20824_2021-Bank.dll
+C:\Users\pedro\Documents\FP\Entornos de Desarrollo\3a Evaluacion\PNICOLAS20824_2021-Bank\PNICOLAS20824_2021-Bank\obj\Debug\PNICOLAS20824_2021-Bank.pdb
