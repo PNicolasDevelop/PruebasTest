@@ -36,6 +36,7 @@ namespace BankAccountNS
             if (m_frozen)
             {
                 throw new Exception("Account frozen");
+                //comment
             }
             if (amount > m_balance)
             {
